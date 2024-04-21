@@ -1,0 +1,15 @@
+.form-select{
+    width:20%;
+}
+.flex-column{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    align-items: center;
+    gap:5px;
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+    width:50%;
+}
